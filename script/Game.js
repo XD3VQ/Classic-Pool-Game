@@ -11,6 +11,7 @@ var requestAnimationFrame = (function () {
         };
 })();
 
+// who is sharan
 function Game_Singleton() {
     this.size = undefined;
     this.spritesStillLoading = 0;
